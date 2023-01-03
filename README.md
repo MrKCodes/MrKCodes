@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kartikeya</h1>
-<h3 align="center">I am a DevOps engineer, worked in AWS and Azure environments, I love to code tools and utilities to ease up or fasten the development process.</h3>
+<h3 align="center">I am a DevOps engineer, worked in AWS and Azure environments, I love to code tools and utilities to ease up or fasten the development process. I wear many hats, some of them are: </h3>
+<ul>
+  <li>DevOps Engineer</li>
+  <li>Cloud Engineer</li>
+  <li>SRE</li>
+  <li>Build Engineer</li>
+  <li>Release Engineer</li>
+  <li>Production Engineer</li>
+  <li>Software Engineer</li>
+</ul> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeyachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyachauhan" /> </p>
 
-- 🔭 I’m currently working on **Azure, SRE_tasks, DevOps planning, etc.**
+- 🔭 I’m currently working on **Azure, SRE activities, DevOps planning, etc.**
 
 - 🌱 I’m currently learning **GoLang and getting started with Kubernetes**
 
