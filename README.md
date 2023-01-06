@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **GoLang and getting started with Kubernetes**
 
-- 📫 How to reach me **kartikeyasingh76@gmail.com**
+- 📫 How to reach me **kartikeyasingh76@gmail.com** **+91 9919 43 7913**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kartikeyachauhan/](https://www.linkedin.com/in/kartikeyachauhan/)
 
