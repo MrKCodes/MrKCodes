@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Azure, SRE activities, DevOps planning, etc.**
 
-- 🌱 I’m currently learning **GoLang and getting started with Kubernetes**
+- 🌱 I’m currently learning **Getting started with Kubernetes and revisiting Azure pipelines for SRE automation. Started GoLang too.**
 
 - 📫 How to reach me **kartikeyasingh76@gmail.com** **+91 9919 43 7913**
 
