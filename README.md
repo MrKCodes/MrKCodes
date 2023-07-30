@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikeya</h1>
-<h3 align="center">I am a DevOps engineer, worked in AWS and Azure environments, I love to code tools and utilities to ease up or fasten the development process. I wear many hats, some of them are: </h3>
+<h3 align="center">I am a Sr. Site Reliability Engineer, I love to code tools and utilities to ease up or fasten the development process and especially monitoring tools. I wear many hats, some of them are: </h3>
 <ul>
   <li>DevOps Engineer</li>
   <li>Cloud Engineer</li>
@@ -8,13 +8,14 @@
   <li>Release Engineer</li>
   <li>Production Engineer</li>
   <li>Software Engineer</li>
+  <li>Platform Engineer</li>
 </ul> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeyachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyachauhan" /> </p>
 
-- 🔭 I’m currently working on **Azure, SRE activities, DevOps planning, etc.**
+- 🔭 I’m currently working on **Azure, K8s, Grafana, SRE activities, DevOps planning, etc.**
 
-- 🌱 I’m currently learning **Getting started with Kubernetes and revisiting Azure pipelines for SRE automation. Started GoLang too.**
+- 🌱 I’m currently learning **Advanced Azure concpets, deep diving in K8s and monitoring.**
 
 - 📫 How to reach me **kartikeyasingh76@gmail.com** **+91 9919 43 7913**
 
