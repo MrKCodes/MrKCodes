@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartikeya</h1>
+<h1 align="center">Hi 👋, Mr. K here</h1>
 <h3 align="center">I am a Sr. Site Reliability Engineer, I love to code tools and utilities to ease up or fasten the development process and especially monitoring tools. I wear many hats, some of them are: </h3>
 <ul>
   <li>DevOps Engineer</li>
@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on **Azure, K8s, Grafana, SRE activities, DevOps planning, etc.**
 
-- 🌱 I’m currently learning **Advanced Azure concpets, deep diving in K8s and monitoring.**
+- 🌱 I’m currently learning **In depth K8s - Multi tenancy**
 
-- 📫 How to reach me **kartikeyasingh76@gmail.com** **+91 9919 43 7913**
+- 📫 How to reach me **https://twitter.com/Mr_K_here**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kartikeyachauhan/](https://www.linkedin.com/in/kartikeyachauhan/)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kartikeyachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeyachauhan" height="30" width="40" /></a>
+<a href="https://twitter.com/Mr_K_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="kartikeyachauhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,7 +31,7 @@
 
 
 <!---
-- 👋 Hi, I’m @kartikeyachauhan
+- 👋 Hi, I’m 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
