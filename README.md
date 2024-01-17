@@ -11,7 +11,7 @@
   <li>Platform Engineer</li>
 </ul> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeyachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyachauhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrKCodes&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyachauhan" /> </p>
 
 - 🔭 I’m currently working on **Azure, K8s, Grafana, SRE activities, DevOps planning, etc.**
 
