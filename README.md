@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **In depth K8s - Multi tenancy**
 
-- 📫 How to reach me **https://twitter.com/Mr_K_here** **https://app.daily.dev/mrk**
+- 📫 How to reach me [@MrK](https://twitter.com/Mr_K_here) [daily.dev](https://app.daily.dev/mrk)
 
 - 📄 Know about my experiences []()
 
