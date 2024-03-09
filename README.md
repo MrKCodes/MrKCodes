@@ -17,13 +17,14 @@
 
 - 🌱 I’m currently learning **In depth K8s - Multi tenancy**
 
-- 📫 How to reach me [@MrK](https://twitter.com/Mr_K_here) [daily.dev](https://app.daily.dev/mrk)
+- 📫 How to reach me on [Twiiter @MrK](https://twitter.com/Mr_K_here) and [daily.dev](https://app.daily.dev/mrk)
+- Email me at connect.mrkc@gmail.com
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences [TBD]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mr_K_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="kartikeyachauhan" height="30" width="40" /></a>
+<a href="https://twitter.com/Mr_K_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Mr. K" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
