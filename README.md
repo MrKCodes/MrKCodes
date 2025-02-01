@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Mr. K here</h1>
-<h3 align="center">I am a Sr. Site Reliability Engineer, I love to code tools and utilities to ease up or fasten the development process and especially monitoring tools. I wear many hats, some of them are: </h3>
+<h3 align="center">I used to be a Sr. Site Reliability Engineer, I currently work as a Cloud Engineer for Deployment team in Amazon.
+  I love to code tools and utilities to ease up or fasten the development process and especially monitoring tools. I wear many hats, some of them are: </h3>
 <ul>
   <li>DevOps Engineer</li>
   <li>Cloud Engineer</li>
@@ -13,9 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrKCodes&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyachauhan" /> </p>
 
-- 🔭 I’m currently working on **Azure, K8s, Grafana, SRE activities, DevOps planning, etc.**
+- 🔭 I’m currently working on **AWS, Azure, K8s, Grafana, SRE activities, DevOps planning, etc.**
 
-- 🌱 I’m currently learning **In depth K8s - Multi tenancy**
+- 🌱 I’m currently learning **EKS and ECS along with new tech like Apprunner and some AI tools**
 
 - 📫 How to reach me on [Twiiter @MrK](https://twitter.com/Mr_K_here) and [daily.dev](https://app.daily.dev/mrk)
 - Email me at connect.mrkc@gmail.com
@@ -40,6 +41,6 @@
 - 📫 How to reach me ...
 --->
 <!---
-kartikeyachauhan/kartikeyachauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.... is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
