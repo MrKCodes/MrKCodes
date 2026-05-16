@@ -1,42 +1,178 @@
-<h1 align="center">Hi, Mr. K here</h1>
-<h3 align="center">I used to be a Sr. Site Reliability Engineer, I currently work as a Cloud Engineer for Deployment team in Amazon(AWS).
-  I love to code tools and utilities to ease up or fasten the development process and especially monitoring tools. I wear many hats, some of them are: </h3>
-<ul>
-  <li>DevOps Engineer</li>
-  <li>Cloud Engineer</li>
-  <li>SRE</li>
-  <li>Build Engineer</li>
-  <li>Release Engineer</li>
-  <li>Production Engineer</li>
-  <li>Software Engineer</li>
-  <li>Platform Engineer</li>
-</ul> 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrKCodes&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyachauhan" /> </p>
+<!-- Banner / Typing Animation -->
+<a href="https://github.com/MrKCodes">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mr.+K+%F0%9F%91%8B;Cloud+Engineer+%40+Amazon+(AWS);Site+Reliability+Engineer;DevOps+%7C+Platform+%7C+Release+Engineer;Builder+of+Tools%2C+Tamer+of+Pipelines" alt="Typing SVG" />
+</a>
 
-- I’m currently working on **AWS, Azure, K8s, Grafana, SRE activities, DevOps planning, etc.**
+<br/>
 
-- I’m currently learning **EKS and ECS along with new tech like Apprunner and some AI tools**
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=MrKCodes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- How to reach me on [Twiiter/X @MrK](https://x.com/Mr_K_here) and [daily.dev](https://app.daily.dev/mrk)
-- Email me at connect.mrkc@gmail.com
+</div>
 
-- Know about my experiences [OpsAlchemist](https://opsalchemistlabs.co.in/)
-- More products (In progress):
-  * [CostOpsAI](costops.opsalchemistlabs.co.in) - multi-cloud cost estimator and more...
-  * [CodeDocs](https://opsalchemist.github.io/CodeDocs/) - Planning to use this to bring all of my Open Source project's documentation in one place
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Mr_K_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Mr. K" height="30" width="40" /></a>
+## 👋 About Me
+
+> Cloud Engineer on the **Deployment team at Amazon (AWS)** with a background as a **Senior Site Reliability Engineer**. I build tools and utilities that streamline development workflows — with a particular love for **observability and monitoring** systems.
+
+🧢 **The hats I wear:**
+> `DevOps Engineer` • `Cloud Engineer` • `SRE` • `Build Engineer` • `Release Engineer` • `Production Engineer` • `Software Engineer` • `Platform Engineer`
+
+---
+
+## 🚀 Currently
+
+- 🛠️ **Working on:** AWS · Azure · Kubernetes · Grafana · SRE practices · DevOps strategy
+- 🌱 **Learning:** Amazon EKS, ECS, AWS App Runner, and the evolving AI tooling landscape
+- 💼 **Showcasing experience at:** [**OpsAlchemist**](https://opsalchemistlabs.co.in/)
+
+---
+
+## 🧰 Tech Stack
+
+#### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+#### 📦 Containers & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+
+#### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+#### 🏗️ Infrastructure as Code & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+<p align="center">
+  <em>Industry certifications validating my cloud, AI, and infrastructure expertise:</em>
 </p>
 
-<!---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
---->
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified AI Practitioner" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/HashiCorp_Certified:_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=1A1A1A" alt="HashiCorp Certified: Terraform Associate" />
+  </a>
+</p>
 
-<!---
-.... is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+| Certification | Issuing Body | Verify |
+|:---|:---:|:---:|
+| **AWS Certified Solutions Architect – Associate** | Amazon Web Services | [🔗 Verify](#) |
+| **AWS Certified AI Practitioner** | Amazon Web Services | [🔗 Verify](#) |
+| **HashiCorp Certified: Terraform Associate** | HashiCorp | [🔗 Verify](#) |
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧪 OpsAlchemist</h3>
+      <p align="center">
+        <em>Personal experience portfolio — distilling SRE, DevOps, and platform engineering work into a single home.</em>
+      </p>
+      <p align="center">
+        <a href="https://opsalchemistlabs.co.in/">
+          <img src="https://img.shields.io/badge/Visit_Site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💸 CostOpsAI <sub><sup>(WIP)</sup></sub></h3>
+      <p align="center">
+        <em>A multi-cloud cost estimator with smart recommendations — built to help teams optimize spend across AWS, Azure, and beyond.</em>
+      </p>
+      <p align="center">
+        <a href="https://costops.opsalchemistlabs.co.in/">
+          <img src="https://img.shields.io/badge/Preview-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📚 CodeDocs <sub><sup>(WIP)</sup></sub></h3>
+      <p align="center">
+        <em>A unified documentation hub bringing all of my open-source projects into a single, searchable place.</em>
+      </p>
+      <p align="center">
+        <a href="https://opsalchemist.github.io/CodeDocs/">
+          <img src="https://img.shields.io/badge/Explore_Docs-181717?style=for-the-badge&logo=readthedocs&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrKCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrKCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://x.com/Mr_K_here">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://app.daily.dev/mrk">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" />
+  </a>
+  <a href="mailto:connect.mrkc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://opsalchemistlabs.co.in/">
+    <img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ *Always learning. Always building.* ✨
+
+<sub>Crafted with ☕, curiosity, and a healthy obsession for clean dashboards.</sub>
+
+</div>
