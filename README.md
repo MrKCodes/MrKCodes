@@ -139,8 +139,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrKCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="MrKCodes GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-git-master-githubstats0.vercel.app/api?username=MrKCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="MrKCodes GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-git-master-githubstats0.vercel.app/api/top-langs/?username=MrKCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
@@ -153,6 +153,7 @@
 </div>
 
 ---
+
 
 ## 🔗 Connect With Me
 
