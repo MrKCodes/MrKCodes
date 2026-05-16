@@ -135,12 +135,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-master-githubstats0.vercel.app/api?username=MrKCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="MrKCodes GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-git-master-githubstats0.vercel.app/api/top-langs/?username=MrKCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+![Followers](https://img.shields.io/github/followers/MrKCodes?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/github/stars/MrKCodes?label=Total%20Stars&style=for-the-badge&color=F7B731&labelColor=0D1117&logo=github)
 
 <br/><br/>
 
@@ -153,7 +153,6 @@
 </div>
 
 ---
-
 
 ## 🔗 Connect With Me
 
