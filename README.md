@@ -75,6 +75,9 @@
     <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified AI Practitioner" />
   </a>
   <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Machine_Learning_Engineer_–_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified Machine Learning Engineer – Associate" />
+  </a>
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HashiCorp_Certified:_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=1A1A1A" alt="HashiCorp Certified: Terraform Associate" />
   </a>
 </p>
@@ -85,6 +88,7 @@
 |:---|:---:|:---:|
 | **AWS Certified Solutions Architect – Associate** | Amazon Web Services | [🔗 Verify](#) |
 | **AWS Certified AI Practitioner** | Amazon Web Services | [🔗 Verify](#) |
+| **AWS Certified Machine Learning Engineer – Associate** | Amazon Web Services | [🔗 Verify](#) |
 | **HashiCorp Certified: Terraform Associate** | HashiCorp | [🔗 Verify](#) |
 
 </div>
@@ -157,7 +161,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://x.com/Mr_K_here">
+  <a href="https://x.com/KubeMonk">
     <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://app.daily.dev/mrk">
